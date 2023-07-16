@@ -3,6 +3,7 @@ Financial distress of a company refers to a situation where the firm is facing s
 
 # Insights from the model 
 The top 10 most important features for predicting the chances of bankruptcy of a company are as follows:-
+
 (1) Profit on (operating activities / financial expences)
 
 (2) Profit on sales
